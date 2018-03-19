@@ -1,0 +1,43 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: いつくると？ふくバス
+email: curutoinfo@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  福岡県内のバス停のバスの発着情報をお伝えするアレクサアプリです。
+  AmazonEcho, AmazonEchoDotなどで利用できます。
+  アレクサアプリに登録されている住所から最寄りのバス停を調べ、現在のバス発着状況をお伝えします。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://fbus.jp/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tabibits
+github_username: hironagai
+
+# Build settings
+markdown: kramdown
+theme: jekyll-cayman-theme
+# plugins:
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - README.md
+ - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
