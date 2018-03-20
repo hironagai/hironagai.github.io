@@ -17,12 +17,10 @@ title: いつくると？ふくバス
 email: curutoinfo@gmail.com
 tagline: 福岡バス停の発着案内アレクサスキル
 description: >- # this means to ignore newlines until "baseurl:"
-  福岡県内のバス停のバスの発着情報をお伝えするアレクサアプリです。
-  AmazonEcho, AmazonEchoDotなどで利用できます。
-  アレクサアプリに登録されている住所から最寄りのバス停を調べ、現在のバス発着状況をお伝えします。
+  ヤバッ！あと何分でバスが来る！？に、サッと答えるアレクサスキルです。Amazon Alexaに登録されているあなたの住所から最寄りのバス停を検索し、今のバス情報をお知らせします。お出かけ前の準備中や、寝過ごした朝をアレクサが全力サポート！
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fbus.jp/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tabibits
+url: "http://fbus.jp" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "@fbus_info"
 github_username: hironagai
 
 # Build settings
