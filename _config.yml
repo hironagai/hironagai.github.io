@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: いつくると？ふくバス
+sub_title: ' - アレクサスキル'
 email: curutoinfo@gmail.com
 tagline: 福岡バス停の発着案内アレクサスキル
 description: >- # this means to ignore newlines until "baseurl:"
-  ヤバッ！あと何分でバスが来る！？に、サッと答えるアレクサスキルです。Amazon Alexaに登録されているあなたの住所から最寄りのバス停を検索し、今のバス情報をお知らせします。お出かけ前の準備中や、寝過ごした朝をアレクサが全力サポート！
+  ヤバッ！あと何分でバス来るの！？をサッと解決。Amazon Alexaに登録されているあなたの住所から、最寄りのバス停の発着情報をお知らせします。お出かけ前の準備中や、寝過ごした朝をアレクサが全力でサポート！
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fbus.jp" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@fbus_info"
@@ -26,7 +27,7 @@ github_username: hironagai
 # Build settings
 markdown: kramdown
 theme: jekyll-cayman-theme
-# plugins:
+plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
