@@ -1,6 +1,7 @@
 ---
 layout: default
 title: プライバシーポリシー
+tag: privacy-policy
 ---
 
 # プライバシーポリシー
