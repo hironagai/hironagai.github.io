@@ -197,7 +197,4 @@ a:hover { text-decoration: underline; }
 .sns {
   padding-bottom: 30px;
 }
-.sns .facebook {
-  width: 150px;
-  overflow: hidden;
-}
+.fb_iframe_widget span {display: block !important;}
