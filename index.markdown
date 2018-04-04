@@ -2,6 +2,10 @@
 layout: default
 title: {{ site.name }}
 ---
+<div class="youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nt5IyhCRjRs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 # このスキルについて
 福岡県内のバス停の発着情報をお伝えするアレクサスキルです。  
 アレクサスキルに登録されている住所から最寄りのバス停を調べ、現在のバス発着状況をお伝えします。
