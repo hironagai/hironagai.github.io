@@ -20,7 +20,7 @@ tagline: ヤバッ！あと何分でバス来ると！？をサッと解決。
 description: >- # this means to ignore newlines until "baseurl:"
   ヤバッ！あと何分でバス来ると！？をサッと解決。Amazon Alexaに登録されているあなたの住所から、最寄りのバス停の発着情報をお知らせします。お出かけ前の準備中や、寝過ごした朝をアレクサが全力でサポート！
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fbus.jp" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fbus.jp" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@fbus_info"
 github_username: hironagai
 
